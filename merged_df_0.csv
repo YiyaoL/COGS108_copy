@@ -1,0 +1,464 @@
+,Name,NetWorth,Source,Rank,Age,Industry,College,state,type,grad_100_value,grad_150_value,nongrad_100_value,nongrad_150_value
+0,Jeff Bezos,$177 B,Amazon,1,57,Technology,Princeton University,Kansas,Public,36.5,39.8,63.5,60.2
+1,Elon Musk,$151 B,"Tesla, SpaceX",2,49,Automotive,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+2,Bill Gates,$124 B,Microsoft,4,65,Technology,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+3,Mark Zuckerberg,$97 B,Facebook,5,36,Technology,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+4,Warren Buffett,$96 B,Berkshire Hathaway,6,90,Finance & Investments,University of Nebraska Lincoln,Arkansas,Public,11.4,19.7,88.6,80.3
+5,Larry Ellison,$93 B,software,7,76,Technology,University of Chicago,Illinois,Private not-for-profit,87.9,92.7,12.1,7.3
+6,Larry Page,$91.5 B,Google,8,48,Technology,University of Michigan at Ann Arbor,Michigan,Public,75.8,90,24.2,10
+7,Sergey Brin,$89 B,Google,9,47,Technology,"University of Maryland, College Park",Maryland,Public,65.7,84.1,34.3,15.9
+8,Steve Ballmer,$68.7 B,Microsoft,14,65,Technology,Stanford University,California,Public,10.5,20.9,89.5,79.1
+9,Alice Walton,$61.8 B,Walmart,17,71,Fashion & Retail,Trinity University,Texas,Private not-for-profit,71.9,81.6,28.1,18.4
+10,Jim Walton,$60.2 B,Walmart,18,72,Fashion & Retail,University of Arkansas,Arkansas,Public,7,21.4,93,78.6
+11,Rob Walton,$59.5 B,Walmart,19,76,Fashion & Retail,University of Arkansas,Arkansas,Public,7,21.4,93,78.6
+12,Michael Bloomberg,$59 B,Bloomberg LP,20,79,Media & Entertainment,Johns Hopkins University,Maryland,Private not-for-profit,86.9,92.5,13.1,7.5
+13,MacKenzie Scott,$53 B,Amazon,22,50,Technology,Princeton University,Kansas,Public,36.5,39.8,63.5,60.2
+14,Daniel Gilbert,$51.9 B,Quicken Loans,23,59,Finance & Investments,Michigan State University,Michigan,Public,50.4,77.6,49.6,22.4
+15,Charles Koch,$46.4 B,Koch Industries,27,85,Diversified,Massachusetts Institute of Technology,Massachusetts,Private not-for-profit,83.5,93.1,16.5,6.9
+16,Michael Dell,$45.1 B,Dell computers,30,56,Technology,The University of Texas at Austin,Texas,Public,8.9,26,91.1,74
+19,Jacqueline Mars,$31.3 B,"candy, pet food",48,81,Food & Beverage,Bryn Mawr College,Maine,Private not-for-profit,88,93,12,7
+20,John Mars,$31.3 B,"candy, pet food",48,85,Food & Beverage,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+21,Leonard Lauder,$25.5 B,Estee Lauder,64,88,Fashion & Retail,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+22,Thomas Peterffy,$25 B,discount brokerage,65,76,Finance & Investments,New York University,New York,Private not-for-profit,77.3,83.7,22.7,16.3
+23,Jim Simons,$24.6 B,hedge funds,68,82,Finance & Investments,"University of California, Berkeley",California,Public,72.2,91,27.8,9
+24,Stephen Schwarzman,$21.9 B,investments,79,74,Finance & Investments,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+25,Pierre Omidyar,$21.4 B,"eBay, PayPal",83,53,Technology,Tufts University,Massachusetts,Private not-for-profit,87.2,92.2,12.8,7.8
+26,Abigail Johnson,$20.9 B,money management,85,59,Finance & Investments,Hobart and William Smith,Tennessee,Private not-for-profit,16.7,37,83.3,63
+27,Ray Dalio,$20.3 B,hedge funds,88,71,Finance & Investments,Long Island University,New York,Private not-for-profit,8,24,92,76
+28,Eric Schmidt,$18.9 B,Google,96,65,Technology,"University of California, Berkeley",California,Public,72.2,91,27.8,9
+29,Robert Pera,$18.3 B,wireless networking gear,100,43,Technology,"University of California, San Diego",California,Public,56.2,85.8,43.8,14.2
+30,Dustin Moskovitz,$17.8 B,Facebook,107,36,Technology,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+31,Donald Newhouse,$17.6 B,media,109,91,Media & Entertainment,Syracuse University,New York,Private not-for-profit,68.5,81.1,31.5,18.9
+32,Steve Cohen,$16 B,hedge funds,119,64,Finance & Investments,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+33,Ken Griffin,$16 B,hedge funds,119,52,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+34,Carl Icahn,$15.8 B,investments,124,85,Finance & Investments,Princeton University,Kansas,Public,36.5,39.8,63.5,60.2
+35,Lukas Walton,$15.6 B,Walmart,127,34,Fashion & Retail,Colorado College,Colorado,Private not-for-profit,79.2,87.2,20.8,12.8
+36,Donald Bren,$15.3 B,real estate,132,88,Real Estate,University of Washington,Washington,Public,57.5,81.8,42.5,18.2
+37,David Tepper,$14.5 B,hedge funds,142,63,Finance & Investments,University of Pittsburgh,Pennsylvania,Public,32.7,54.2,67.3,45.8
+38,Brian Chesky,$13.7 B,Airbnb,154,39,Technology,Rhode Island School of Design,Rhode Island,Private not-for-profit,72.3,87.3,27.7,12.7
+39,David Duffield,$13.5 B,business software,156,80,Technology,Cornell University,New York,Private not-for-profit,86.6,93.3,13.4,6.7
+40,Jack Dorsey,$12.5 B,"Twitter, Square",173,44,Technology,New York University,New York,Private not-for-profit,77.3,83.7,22.7,16.3
+41,Nathan Blecharczyk,$12.4 B,Airbnb,177,37,Technology,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+42,John Doerr,$12.4 B,venture capital,177,69,Technology,Rice University; Rice University,Texas,Private not-for-profit,78.8,91.1,21.2,8.9
+43,Joe Gebbia,$12.4 B,Airbnb,177,39,Technology,Rhode Island School of Design,Rhode Island,Private not-for-profit,72.3,87.3,27.7,12.7
+44,Gordon Moore,$12.1 B,Intel,182,92,Technology,California Institute of Technology,California,Private not-for-profit,82.3,93.1,17.7,6.9
+46,Bobby Murphy,$11.9 B,Snapchat,185,32,Technology,Stanford University,California,Public,10.5,20.9,89.5,79.1
+47,Evan Spiegel,$11.1 B,Snapchat,197,30,Technology,Stanford University,California,Public,10.5,20.9,89.5,79.1
+48,Charles Schwab,$10.6 B,discount brokerage,210,83,Finance & Investments,Stanford University,California,Public,10.5,20.9,89.5,79.1
+49,Philip Anschutz,$10.1 B,investments,224,81,Finance & Investments,University of Kansas,Kansas,Public,35.8,61.6,64.2,38.4
+51,Carl Cook,$9.9 B,medical devices,230,58,Healthcare,Purdue University,Indiana,Public,41.8,70.2,58.2,29.8
+52,Jan Koum,$9.9 B,WhatsApp,230,45,Technology,San Jose State University,California,Public,7.7,48.1,92.3,51.9
+53,Mat Ishbia,$9.7 B,★,234,41,Finance & Investments,Michigan State University,Michigan,Public,50.4,77.6,49.6,22.4
+54,Israel Englander,$9.6 B,hedge funds,241,72,Finance & Investments,New York University,New York,Private not-for-profit,77.3,83.7,22.7,16.3
+55,Charles Ergen,$9.6 B,satellite TV,241,68,Media & Entertainment,University of Tennessee Knoxville,Tennessee,Public,15.1,37.1,84.9,62.9
+56,David Geffen,$9.5 B,"movies, record labels",245,78,Media & Entertainment,The University of Texas at Austin,Texas,Public,8.9,26,91.1,74
+57,Jim Kennedy,$9.4 B,"media, automotive",247,73,Media & Entertainment,University of Denver,Colorado,Private not-for-profit,66.5,77.5,33.5,22.5
+58,Blair Parry-Okeden,$9.4 B,"media, automotive",247,70,Media & Entertainment,University of Denver,Colorado,Private not-for-profit,66.5,77.5,33.5,22.5
+61,Jerry Jones,$8.9 B,Dallas Cowboys,264,78,Sports,University of Arkansas,Arkansas,Public,7,21.4,93,78.6
+62,Steven Rales,$8.9 B,manufacturing,264,70,Manufacturing,DePauw University,Indiana,Private not-for-profit,74.2,79.2,25.8,20.8
+63,Sam Bankman-Fried,$8.7 B,cryptocurrency,274,29,Finance & Investments,Massachusetts Institute of Technology,Massachusetts,Private not-for-profit,83.5,93.1,16.5,6.9
+65,Leon Black,$8.6 B,private equity,288,69,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+67,Marc Benioff,$8.4 B,business software,294,56,Technology,University of Southern California,California,Private not-for-profit,78.2,91.2,21.8,8.8
+68,Bubba Cathy,$8.3 B,Chick-fil-A,297,66,Food & Beverage,Samford University,Alabama,Private not-for-profit,48.9,69.2,51.1,30.8
+69,Dan Cathy,$8.3 B,Chick-fil-A,297,68,Food & Beverage,Georgia Southern University,Arizona,Public,7.5,13.3,92.5,86.7
+70,Stanley Kroenke,$8.2 B,"sports, real estate",304,73,Sports,University of Missouri,Missouri,Public,47.1,70.1,52.9,29.9
+71,Shahid Khan,$8 B,auto parts,308,70,Automotive,"University of Illinois, Urbana-Champaign",Illinois,Public,29.9,56.7,70.1,43.3
+72,Andrew Beal,$7.9 B,"banks, real estate",311,68,Finance & Investments,Baylor University,Texas,Private not-for-profit,57.2,74.7,42.8,25.3
+73,John Malone,$7.8 B,cable television,316,80,Media & Entertainment,Johns Hopkins University,Maryland,Private not-for-profit,86.9,92.5,13.1,7.5
+74,Marijke Mars,$7.8 B,"candy, pet food",316,56,Food & Beverage,Duke University,North Carolina,Private not-for-profit,87.1,94.2,12.9,5.8
+75,Pamela Mars,$7.8 B,"candy, pet food",316,60,Food & Beverage,Vassar College,Illinois,Private for-profit,45,46.6,55,53.4
+76,Valerie Mars,$7.8 B,"candy, pet food",316,62,Food & Beverage,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+77,Victoria Mars,$7.8 B,"candy, pet food",316,64,Food & Beverage,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+78,George Roberts,$7.6 B,private equity,327,77,Finance & Investments,Claremont McKenna College,California,Private not-for-profit,83.6,92.5,16.4,7.5
+79,Nancy Walton Laurie,$7.5 B,Walmart,334,69,Fashion & Retail,University of Memphis,Tennessee,Public,13.1,43.2,86.9,56.8
+81,George Lucas,$7.4 B,Star Wars,339,76,Media & Entertainment,University of Southern California,California,Private not-for-profit,78.2,91.2,21.8,8.8
+82,Henry Kravis,$7.3 B,private equity,344,77,Finance & Investments,Claremont McKenna College,California,Private not-for-profit,83.6,92.5,16.4,7.5
+83,David Shaw,$7.3 B,hedge funds,344,70,Finance & Investments,"University of California, San Diego",California,Public,56.2,85.8,43.8,14.2
+84,Rocco Commisso,$7.2 B,telecom,352,71,Telecom,Columbia University,New York,Private not-for-profit,85.6,93.3,14.4,6.7
+85,Bernard Marcus,$7.2 B,Home Depot,352,91,Fashion & Retail,Rutgers University,New Jersey,Public,26.7,55.5,73.3,44.5
+86,Ralph Lauren,$7.1 B,apparel,358,81,Fashion & Retail,City University of New York City College,Florida,Private not-for-profit,30.4,34.8,69.6,65.2
+87,Anthony Wood,$7.1 B,Roku,358,55,Technology,Texas A&M University,Texas,Public,24.3,40.2,75.7,59.8
+88,Richard Kinder,$7 B,pipelines,369,76,Energy,University of Missouri,Missouri,Public,47.1,70.1,52.9,29.9
+89,Stephen Ross,$7 B,real estate,369,80,Real Estate,Wayne State University,Michigan,Public,11.2,32.3,88.8,67.7
+90,Eli Broad,$6.9 B,investments,380,87,Finance & Investments,Michigan State University,Michigan,Public,50.4,77.6,49.6,22.4
+92,Micky Arison,$6.7 B,Carnival Cruises,391,71,Service,University of Miami,Florida,Private not-for-profit,70.8,81.7,29.2,18.3
+93,Reinhold Schmieding,$6.7 B,medical devices,391,66,Healthcare,Michigan State University,Michigan,Public,50.4,77.6,49.6,22.4
+94,Bruce Kovner,$6.6 B,hedge funds,400,76,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+95,Brian Armstrong,$6.5 B,cryptocurrency,404,38,Finance & Investments,Rice University,Texas,Private not-for-profit,78.8,91.1,21.2,8.9
+96,James Goodnight,$6.5 B,software,404,78,Technology,North Carolina State University,North Carolina,Public,41.3,74,58.7,26
+97,John Overdeck,$6.5 B,hedge funds,404,51,Finance & Investments,Stanford University,California,Public,10.5,20.9,89.5,79.1
+98,David Siegel,$6.5 B,hedge funds,404,59,Finance & Investments,University of Miami,Florida,Private not-for-profit,70.8,81.7,29.2,18.3
+99,Ronda Stryker,$6.5 B,medical equipment,404,66,Healthcare,University of Northern Colorado,Colorado,Public,26.5,46.4,73.5,53.6
+100,Arthur Blank,$6.2 B,Home Depot,432,78,Sports,Babson College,Massachusetts,Private not-for-profit,84.3,90.7,15.7,9.3
+101,James Chambers,$6.2 B,"media, automotive",432,63,Media & Entertainment,Bard College,New York,Private not-for-profit,60.2,73.9,39.8,26.1
+102,Mitchell Rales,$6.2 B,"manufacturing, investments",432,64,Manufacturing,Miami University of Ohio,Ohio,Public,7.9,27.7,92.1,72.3
+103,Katharine Rayner,$6.2 B,"media, automotive",432,76,Media & Entertainment,Sarah Lawrence College,New York,Private not-for-profit,62.3,69.1,37.7,30.9
+105,Henry Samueli,$6.1 B,semiconductors,440,66,Technology,"University of California, Los Angeles",California,Public,69,90.3,31,9.7
+106,Robert Brockman,$6 B,Software,451,79,Technology,University of Florida,Florida,Public,65.2,86.5,34.8,13.5
+107,Judy Faulkner,$6 B,health IT,451,77,Technology,University of Wisconsin,Wisconsin,Public,55,82.8,45,17.2
+108,Jane Lauder,$6 B,Estée Lauder,451,48,Fashion & Retail,Stanford University,California,Public,10.5,20.9,89.5,79.1
+110,Randa Duncan Williams,$6 B,pipelines,451,59,Energy,Rice University,Texas,Private not-for-profit,78.8,91.1,21.2,8.9
+111,George Kaiser,$5.8 B,"oil & gas, banking",476,78,Energy,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+112,Douglas Leone,$5.8 B,venture capital,476,63,Finance & Investments,Massachusetts Institute of Technology,Massachusetts,Private not-for-profit,83.5,93.1,16.5,6.9
+113,Meg Whitman,$5.8 B,eBay,476,64,Technology,Princeton University,Kansas,Public,36.5,39.8,63.5,60.2
+114,Neil Bluhm,$5.7 B,real estate,486,83,Real Estate,Northwestern University,Illinois,Private not-for-profit,86.2,94.2,13.8,5.8
+115,Tom Gores,$5.7 B,private equity,486,56,Finance & Investments,Michigan State University,Michigan,Public,50.4,77.6,49.6,22.4
+116,Michael Moritz,$5.7 B,venture capital,486,66,Technology,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+117,Jack Dangermond,$5.6 B,mapping software,496,75,Technology,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+118,Stanley Druckenmiller,$5.6 B,hedge funds,496,67,Finance & Investments,Bowdoin College,Maine,Private not-for-profit,87.6,93.3,12.4,6.7
+119,Tamara Gustavson,$5.6 B,self storage,496,59,Service,University of Southern California,California,Private not-for-profit,78.2,91.2,21.8,8.8
+120,Ken Fisher,$5.5 B,money management,502,70,Finance & Investments,Humboldt State University,California,Public,10.8,40,89.2,60
+121,Ronald Lauder,$5.5 B,Estee Lauder,502,77,Fashion & Retail,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+122,Jude Reyes,$5.5 B,food distribution,502,65,Food & Beverage,Wofford College,South Carolina,Private not-for-profit,78.2,81.6,21.8,18.4
+123,Terrence Pegula,$5.4 B,natural gas,520,70,Energy,Pennsylvania State University,Pennsylvania,Public,45.5,69.4,54.5,30.6
+124,Sam Zell,$5.3 B,"real estate, private equity",529,79,Real Estate,University of Michigan at Ann Arbor,Michigan,Public,75.8,90,24.2,10
+125,John Brown,$5.2 B,medical equipment,539,86,Healthcare,Auburn University,Alabama,Public,9.9,27.1,90.1,72.9
+126,Joe Mansueto,$5.2 B,investment research,539,64,Finance & Investments,University of Chicago,Illinois,Private not-for-profit,87.9,92.7,12.1,7.3
+128,Robert Bass,$5.1 B,"oil, investments",550,73,Energy,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+129,Reed Hastings,$5.1 B,Netflix,550,60,Media & Entertainment,Bowdoin College,Maine,Private not-for-profit,87.6,93.3,12.4,6.7
+130,Joshua Harris,$5 B,private equity,561,56,Finance & Investments,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+131,Charles Simonyi,$5 B,Microsoft,561,72,Technology,"University of California, Berkeley",California,Public,72.2,91,27.8,9
+132,Daniel Ziff,$5 B,investments,561,49,Finance & Investments,Columbia University,New York,Private not-for-profit,85.6,93.3,14.4,6.7
+133,Dirk Ziff,$5 B,investments,561,57,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+134,Robert Ziff,$5 B,investments,561,54,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+136,Karen Pritzker,$4.9 B,"hotels, investments",574,63,Finance & Investments,Northwestern University,Illinois,Private not-for-profit,86.2,94.2,13.8,5.8
+137,Howard Schultz,$4.9 B,Starbucks,574,67,Food & Beverage,Northern Michigan University,Michigan,Public,20.7,48.5,79.3,51.5
+138,Thomas Siebel,$4.9 B,business software,574,68,Technology,"University of Illinois, Urbana-Champaign",Illinois,Public,29.9,56.7,70.1,43.3
+139,Peter Thiel,$4.9 B,Facebook,574,53,Finance & Investments,Stanford University,California,Public,10.5,20.9,89.5,79.1
+140,Elizabeth Johnson,$4.8 B,money management,589,57,Finance & Investments,Franklin Pierce University,New Hampshire,Private not-for-profit,38.8,44.1,61.2,55.9
+141,Alan Trefler,$4.8 B,software,589,65,Technology,Dartmouth College,New Hampshire,Private not-for-profit,86.5,94.7,13.5,5.3
+142,Ken Langone,$4.7 B,investments,608,85,Finance & Investments,Bucknell University,Pennsylvania,Private not-for-profit,87.3,90.8,12.7,9.2
+143,Tim Sweeney,$4.7 B,video games,608,50,Media & Entertainment,"University of Maryland, College Park",Maryland,Public,65.7,84.1,34.3,15.9
+144,Mark Walter,$4.7 B,finance,608,60,Finance & Investments,Northwestern University,Illinois,Private not-for-profit,86.2,94.2,13.8,5.8
+145,Bert Beveridge,$4.6 B,vodka,622,59,Food & Beverage,University of Texas at Austin,Texas,Public,50.9,79.4,49.1,20.6
+146,Tilman Fertitta,$4.6 B,"Houston Rockets, entertainment",622,63,Food & Beverage,Texas Tech University,Texas,Public,32.8,59,67.2,41
+147,Peter Gassner,$4.6 B,software,622,56,Technology,Oregon State University,Oregon,Public,29.6,61.5,70.4,38.5
+148,Ron Baron,$4.5 B,money management,638,77,Finance & Investments,Bucknell University,Pennsylvania,Private not-for-profit,87.3,90.8,12.7,9.2
+149,Jonathan Gray,$4.5 B,investments,638,51,Finance & Investments,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+150,Sami Mnaymneh,$4.5 B,private equity,638,59,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+151,Igor Olenicoff,$4.5 B,real estate,638,78,Real Estate,University of Southern California,California,Private not-for-profit,78.2,91.2,21.8,8.8
+152,Thomas Pritzker,$4.5 B,"hotels, investments",638,70,Finance & Investments,University of Chicago,Illinois,Private not-for-profit,87.9,92.7,12.1,7.3
+153,Tony Tamer,$4.5 B,private equity,638,63,Finance & Investments,Rutgers University,New Jersey,Public,26.7,55.5,73.3,44.5
+154,Orlando Bravo,$4.4 B,private equity,655,50,Finance & Investments,Brown University,Rhode Island,Private not-for-profit,84.4,94.5,15.6,5.5
+155,Mark Cuban,$4.4 B,"online media, Dallas Mavericks",655,62,Media & Entertainment,Indiana University,Indiana,Public,7.2,27.9,92.8,72.1
+156,Thomas Hagen,$4.3 B,insurance,665,85,Finance & Investments,Ohio State University,Ohio,Public,16.7,29.9,83.3,70.1
+157,Eric Lefkofsky,$4.3 B,Groupon,665,51,Technology,University of Michigan at Ann Arbor,Michigan,Public,75.8,90,24.2,10
+158,Antony Ressler,$4.3 B,finance,665,59,Finance & Investments,Georgetown University,District of Columbia,Private not-for-profit,88,92.5,12,7.5
+159,Paul Singer,$4.3 B,hedge funds,665,76,Finance & Investments,University of Rochester,New York,Private not-for-profit,76.6,85.2,23.4,14.8
+160,Steven Udvar-Hazy,$4.3 B,aircraft leasing,665,75,Service,"University of California, Los Angeles",California,Public,69,90.3,31,9.7
+161,Rick Caruso,$4.2 B,real estate,680,62,Real Estate,Pepperdine University,California,Private not-for-profit,70.3,80.4,29.7,19.6
+162,Scott Cook,$4.2 B,software,680,68,Technology,University of Southern California,California,Private not-for-profit,78.2,91.2,21.8,8.8
+163,Barry Diller,$4.2 B,online media,680,79,Media & Entertainment,"University of California, Los Angeles",California,Public,69,90.3,31,9.7
+164,Ray Lee Hunt,$4.2 B,"oil, real estate",680,78,Energy,Southern Methodist University,North Carolina,Private not-for-profit,18.4,42.6,81.6,57.4
+165,Leonard Stern,$4.2 B,real estate,680,83,Real Estate,New York University,New York,Private not-for-profit,77.3,83.7,22.7,16.3
+167,Margot Birmingham Perot,$4.1 B,"computer services, real estate",705,87,Technology,Goucher College,Maryland,Private not-for-profit,59.1,67.9,40.9,32.1
+168,David Bonderman,$4.1 B,private equity,705,78,Finance & Investments,University of Washington,Washington,Public,57.5,81.8,42.5,18.2
+169,Matthew Calkins,$4.1 B,software,705,48,Technology,Dartmouth College,New Hampshire,Private not-for-profit,86.5,94.7,13.5,5.3
+170,Dan Friedkin,$4.1 B,Toyota dealerships,705,56,Automotive,Rice University,Texas,Private not-for-profit,78.8,91.1,21.2,8.9
+171,William Lauder,$4.1 B,Estee Lauder,705,60,Fashion & Retail,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+172,Janice McNair,$4.1 B,"energy, sports",705,84,Sports,Columbia College,California,Public,5.6,16.4,94.4,83.6
+173,John Morris,$4.1 B,sporting goods retail,705,73,Fashion & Retail,Drury University,Missouri,Private not-for-profit,32.1,54.2,67.9,45.8
+174,Gabe Newell,$4.1 B,videogames,705,58,Gambling & Casinos,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+175,Jon Stryker,$4.1 B,medical equipment,705,62,Healthcare,Kalamazoo College,Michigan,Private not-for-profit,72.5,77.4,27.5,22.6
+176,Trevor Rees-Jones,$4 B,oil & gas,727,69,Energy,Southern Methodist University,North Carolina,Private not-for-profit,18.4,42.6,81.6,57.4
+177,Ira Rennert,$4 B,investments,727,86,Finance & Investments,City University of New York Brooklyn College,New York,Public,24,51.2,76,48.8
+178,Marc Rowan,$4 B,private equity,727,58,Finance & Investments,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+179,Rakesh Gangwal,$3.9 B,airline,752,67,Service,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+180,Jeff Greene,$3.9 B,"real estate, investments",752,66,Real Estate,Johns Hopkins University,Maryland,Private not-for-profit,86.9,92.5,13.1,7.5
+181,Johnelle Hunt,$3.9 B,trucking,752,89,Logistics,University of Central Arkansas,Arkansas,Public,20.5,41.5,79.5,58.5
+182,Robert Rowling,$3.9 B,"hotels, investments",752,67,Service,Southern Methodist University,North Carolina,Private not-for-profit,18.4,42.6,81.6,57.4
+183,Mark Shoen,$3.9 B,U-Haul,752,70,Automotive,College of the Holy Cross,Massachusetts,Private not-for-profit,89,91.4,11,8.6
+184,Ben Silbermann,$3.9 B,Pinterest,752,38,Technology,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+185,Jeff Green,$3.8 B,online advertising,775,44,Media & Entertainment,University of Southern California,California,Private not-for-profit,78.2,91.2,21.8,8.8
+186,Aerin Lauder,$3.8 B,cosmetics,775,50,Fashion & Retail,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+187,Donald Sterling,$3.8 B,real estate,775,86,Real Estate,California State Los Angeles,California,Public,15,39.5,85,60.5
+188,Mary Alice Dorrance Malone,$3.7 B,Campbell Soup,807,71,Food & Beverage,University of Arizona,Arizona,Public,39.9,61.4,60.1,38.6
+189,Michael Milken,$3.7 B,investments,807,74,Finance & Investments,"University of California, Berkeley",California,Public,72.2,91,27.8,9
+190,Ronald Perelman,$3.7 B,leveraged buyouts,807,78,Finance & Investments,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+191,Jeff Rothschild,$3.7 B,Facebook,807,66,Technology,Vanderbilt University,Tennessee,Private not-for-profit,86.7,92.5,13.3,7.5
+192,David Rubenstein,$3.7 B,private equity,807,71,Finance & Investments,Duke University,North Carolina,Private not-for-profit,87.1,94.2,12.9,5.8
+194,Barry Sternlicht,$3.7 B,private equity,807,60,Finance & Investments,Brown University,Rhode Island,Private not-for-profit,84.4,94.5,15.6,5.5
+195,Mark Stevens,$3.7 B,venture capital,807,61,Finance & Investments,University of Southern California,California,Private not-for-profit,78.2,91.2,21.8,8.8
+196,David Steward,$3.7 B,IT provider,807,69,Technology,Central Missouri State University,Missouri,Public,12.9,26.8,87.1,73.2
+197,Vincent Viola,$3.7 B,electronic trading,807,65,Finance & Investments,United States Military Academy,New York,Public,62.1,73.6,37.9,26.4
+198,Wang Roger,$3.7 B,retail,807,72,Fashion & Retail,Southeastern Louisiana University,Louisiana,Public,13.4,35.6,86.6,64.4
+199,Russ Weiner,$3.7 B,energy drinks,807,50,Food & Beverage,San Diego State University,California,Public,32.7,66.2,67.3,33.8
+201,Steve Conine,$3.6 B,online retail,831,48,Technology,Cornell University,New York,Private not-for-profit,86.6,93.3,13.4,6.7
+202,Helen Johnson-Leipold,$3.6 B,cleaning products,831,64,Manufacturing,Cornell University,New York,Private not-for-profit,86.6,93.3,13.4,6.7
+203,Peter Kellogg,$3.6 B,investments,831,78,Finance & Investments,Babson College,Massachusetts,Private not-for-profit,84.3,90.7,15.7,9.3
+204,Marianne Liebmann,$3.6 B,Cargill,831,67,Food & Beverage,Montana State University,Montana,Public,12.3,26.7,87.7,73.3
+205,Daniel Och,$3.6 B,hedge funds,831,60,Finance & Investments,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+206,Anthony Pritzker,$3.6 B,"hotels, investments",831,60,Service,Dartmouth College,New Hampshire,Private not-for-profit,86.5,94.7,13.5,5.3
+207,Niraj Shah,$3.6 B,online retail,831,47,Technology,Cornell University,New York,Private not-for-profit,86.6,93.3,13.4,6.7
+208,Ty Warner,$3.6 B,"real estate, plush toys",831,76,Real Estate,Kalamazoo College,Michigan,Private not-for-profit,72.5,77.4,27.5,22.6
+209,Charles Cohen,$3.5 B,real estate,859,69,Real Estate,Tufts University,Massachusetts,Private not-for-profit,87.2,92.2,12.8,7.8
+210,David Filo,$3.5 B,Yahoo,859,54,Technology,Tulane University,Louisiana,Private not-for-profit,62.3,76,37.7,24
+211,Daniel Loeb,$3.5 B,hedge funds,859,59,Finance & Investments,Columbia University,New York,Private not-for-profit,85.6,93.3,14.4,6.7
+212,Jim McKelvey,$3.5 B,mobile payments,859,55,Technology,Washington University in St. Louis,Missouri,Private not-for-profit,88.2,94,11.8,6
+213,John Paulson,$3.5 B,hedge funds,859,65,Finance & Investments,New York University,New York,Private not-for-profit,77.3,83.7,22.7,16.3
+214,Michael Rubin,$3.5 B,online retail,859,48,Fashion & Retail,Villanova University,Pennsylvania,Private not-for-profit,86.2,90.1,13.8,9.9
+216,Jim Davis,$3.4 B,staffing & recruiting,891,61,Service,Middlebury College,Vermont,Private not-for-profit,86.7,93.6,13.3,6.4
+217,Steven Klinsky,$3.4 B,investments,891,64,Finance & Investments,"University of Michigan, Ann Arbor",Michigan,Public,75.8,90,24.2,10
+218,Chris Larsen,$3.4 B,cryptocurrency,891,60,Finance & Investments,San Francisco State University,California,Public,12.7,45.5,87.3,54.5
+219,John Middleton,$3.4 B,tobacco,891,66,Food & Beverage,Amherst College,Massachusetts,Private not-for-profit,89.5,95.8,10.5,4.2
+220,Arturo Moreno,$3.4 B,"billboards, Anaheim Angels",891,74,Sports,University of Arizona,Arizona,Public,39.9,61.4,60.1,38.6
+221,Jay Paul,$3.4 B,real estate,891,73,Real Estate,Boston University,Massachusetts,Private not-for-profit,79.6,84.5,20.4,15.5
+222,Patrick Ryan,$3.4 B,insurance,891,83,Finance & Investments,Northwestern University,Illinois,Private not-for-profit,86.2,94.2,13.8,5.8
+223,RJ Scaringe,$3.4 B,electric vehicles,891,38,Automotive,Rensselaer Polytechnic Institute,New York,Private not-for-profit,64.9,84.9,35.1,15.1
+224,Lynn Schusterman,$3.4 B,"oil & gas, investments",891,82,Energy,University of Miami,Florida,Private not-for-profit,70.8,81.7,29.2,18.3
+225,Frank VanderSloot,$3.4 B,"nutrition, wellness products",891,72,Fashion & Retail,Brigham Young University,Utah,Private not-for-profit,30.9,78,69.1,22
+226,Kelcy Warren,$3.4 B,pipelines,891,65,Energy,University of Texas Arlington,Texas,Public,16.9,40.4,83.1,59.6
+227,John Arnold,$3.3 B,hedge funds,925,47,Finance & Investments,Vanderbilt University,Tennessee,Private not-for-profit,86.7,92.5,13.3,7.5
+228,Joseph Edelman,$3.3 B,hedge funds,925,65,Finance & Investments,"University of California, San Diego",California,Public,56.2,85.8,43.8,14.2
+229,Jim Koch,$3.3 B,beer,925,71,Food & Beverage,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+230,Don Hankey,$3.2 B,auto loans,956,77,Finance & Investments,University of Southern California,California,Private not-for-profit,78.2,91.2,21.8,8.8
+231,Thai Lee,$3.2 B,IT provider,956,62,Technology,Amherst College,Massachusetts,Private not-for-profit,89.5,95.8,10.5,4.2
+232,John Sall,$3.2 B,software,956,73,Technology,Beloit College,Wisconsin,Private not-for-profit,70.5,78.2,29.5,21.8
+233,Steve Wynn,$3.2 B,"casinos, hotels",956,79,Gambling & Casinos,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+234,John Fisher,$3.1 B,Gap,986,59,Fashion & Retail,Stanford University,California,Public,10.5,20.9,89.5,79.1
+235,Jane Goldman,$3.1 B,real estate,986,65,Real Estate,Manhattanville College,Kansas,Public,37.8,37.8,62.2,62.2
+236,Penny Pritzker,$3.1 B,"hotels, investments",986,61,Finance & Investments,Stanford University,California,Public,10.5,20.9,89.5,79.1
+237,Herb Simon,$3.1 B,real estate,986,86,Real Estate,City College of New York,New York,Public,9.4,42,90.6,58
+238,Jerry Speyer,$3.1 B,real estate,986,80,Real Estate,Columbia University,New York,Private not-for-profit,85.6,93.3,14.4,6.7
+239,Ben Chestnut,$3 B,email marketing,1008,46,Technology,Georgia Institute of Technology,Georgia,Public,40.9,82.2,59.1,17.8
+240,Behdad Eghbali,$3 B,private equity,1008,44,Finance & Investments,"University of California, Berkeley",California,Public,72.2,91,27.8,9
+241,Alec Gores,$3 B,private equity,1008,68,Finance & Investments,Western Michigan University,Michigan,Public,24.2,54.9,75.8,45.1
+242,Jimmy Haslam,$3 B,"gas stations, retail",1008,67,Fashion & Retail,University of Tennessee Knoxville,Tennessee,Public,15.1,37.1,84.9,62.9
+243,James Irsay,$3 B,Indianapolis Colts,1008,61,Sports,Southern Methodist University,North Carolina,Private not-for-profit,18.4,42.6,81.6,57.4
+244,Justin Ishbia,$3 B,★,1008,43,Finance & Investments,Michigan State University,Michigan,Public,50.4,77.6,49.6,22.4
+245,George Kurtz,$3 B,security software,1008,50,Technology,Seton Hall University,New Jersey,Private not-for-profit,50.2,64.1,49.8,35.9
+246,Joseph Liemandt,$3 B,software,1008,52,Technology,Stanford University,California,Public,10.5,20.9,89.5,79.1
+247,Jeffrey Lurie,$3 B,Philadelphia Eagles,1008,69,Sports,Brandeis University,Massachusetts,Private not-for-profit,86.2,89.6,13.8,10.4
+248,Pat Stryker,$3 B,medical equipment,1008,65,Healthcare,University of Northern Colorado,Colorado,Public,26.5,46.4,73.5,53.6
+249,Cameron Winklevoss,$3 B,cryptocurrency,1008,39,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+250,Tyler Winklevoss,$3 B,cryptocurrency,1008,39,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+251,Ben Ashkenazy,$2.9 B,real estate,1064,51,Real Estate,Adelphi University,New York,Private not-for-profit,52.5,62.5,47.5,37.5
+252,Sid Bass,$2.9 B,"oil, investments",1064,78,Energy,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+253,Bennett Dorrance,$2.9 B,Campbell Soup,1064,75,Food & Beverage,University of Arizona,Arizona,Public,39.9,61.4,60.1,38.6
+254,Maggie Hardy Knox,$2.9 B,building materials,1064,55,Service,West Virginia University,West Virginia,Public,7.5,28.6,92.5,71.4
+255,Bradley Jacobs,$2.9 B,logistics,1064,64,Logistics,Brown University,Rhode Island,Private not-for-profit,84.4,94.5,15.6,5.5
+256,Osman Kibar,$2.9 B,biotech,1064,50,Healthcare,California Institute of Technology,California,Private not-for-profit,82.3,93.1,17.7,6.9
+258,Chad Richison,$2.9 B,payroll processing,1064,50,Technology,University of Central Oklahoma,Oklahoma,Public,9.7,35.5,90.3,64.5
+259,Alejandro Santo Domingo,$2.9 B,beer,1064,44,Food & Beverage,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+260,Paul Sciarra,$2.9 B,Pinterest,1064,40,Technology,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+261,Jeff Sutton,$2.9 B,real estate,1064,61,Real Estate,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+262,Glen Taylor,$2.9 B,printing,1064,79,Service,Minnesota State University,Minnesota,Public,21,31.8,79,68.2
+263,Jon Yarbrough,$2.9 B,video games,1064,63,Gambling & Casinos,Tennessee Technological University,Tennessee,Public,22.5,50.6,77.5,49.4
+264,William Ackman,$2.8 B,hedge funds,1111,54,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+265,David Baszucki,$2.8 B,online games,1111,58,Media & Entertainment,Stanford University,California,Public,10.5,20.9,89.5,79.1
+266,Aneel Bhusri,$2.8 B,business software,1111,55,Technology,Brown University,Rhode Island,Private not-for-profit,84.4,94.5,15.6,5.5
+267,Norman Braman,$2.8 B,"art, car dealerships",1111,88,Automotive,Temple University,Pennsylvania,Public,38.9,66.3,61.1,33.7
+268,John Catsimatidis,$2.8 B,"oil, real estate",1111,72,Energy,New York University,New York,Private not-for-profit,77.3,83.7,22.7,16.3
+269,James Clark,$2.8 B,"Netscape, investments",1111,77,Technology,University of New Orleans,Louisiana,Public,13,32.1,87,67.9
+270,Doris Fisher,$2.8 B,Gap,1111,89,Fashion & Retail,Stanford University,California,Public,10.5,20.9,89.5,79.1
+271,Gary Friedman,$2.8 B,Furniture retail,1111,63,Fashion & Retail,Santa Rosa Junior College,California,Public,12.1,32.7,87.9,67.3
+272,David Gottesman,$2.8 B,investments,1111,94,Finance & Investments,Trinity College Connecticut,Connecticut,Private not-for-profit,81.4,86.3,18.6,13.7
+273,Travis Kalanick,$2.8 B,Uber,1111,44,Technology,"University of California, Los Angeles",California,Public,69,90.3,31,9.7
+275,Tony Xu,$2.8 B,food delivery service,1111,36,Technology,"University of California, Berkeley",California,Public,72.2,91,27.8,9
+276,Timothy Boyle,$2.7 B,Columbia Sportswear,1174,71,Fashion & Retail,University of Oregon,Oregon,Public,43.6,66.5,56.4,33.5
+277,James Jannard,$2.7 B,sunglasses,1174,71,Fashion & Retail,University of Southern California,California,Private not-for-profit,78.2,91.2,21.8,8.8
+278,Vinod Khosla,$2.7 B,venture capital,1174,66,Technology,Carnegie Mellon University,Pennsylvania,Private not-for-profit,74.3,88,25.7,12
+279,Richard Peery,$2.7 B,real estate,1174,82,Real Estate,Brigham Young University,Utah,Private not-for-profit,30.9,78,69.1,22
+280,Oprah Winfrey,$2.7 B,TV shows,1174,67,Media & Entertainment,Tennessee State University,Tennessee,Public,17.2,41.3,82.8,58.7
+282,Brian Acton,$2.6 B,WhatsApp,1205,49,Technology,Stanford University,California,Public,10.5,20.9,89.5,79.1
+283,Anthony Hsieh,$2.6 B,mortgage lender,1205,56,Finance & Investments,California State Fullerton,California,Public,13.6,53.5,86.4,46.5
+284,Brad Kelley,$2.6 B,tobacco,1205,64,Real Estate,Western Kentucky University,Kentucky,Public,25.3,50.3,74.7,49.7
+285,Daniel Pritzker,$2.6 B,"hotels, investments",1205,61,Finance & Investments,Northwestern University,Illinois,Private not-for-profit,86.2,94.2,13.8,5.8
+286,Steven Sarowitz,$2.6 B,payroll software,1205,55,Technology,"University of Illinois, Urbana-Champaign",Illinois,Public,29.9,56.7,70.1,43.3
+287,Dan Snyder,$2.6 B,Washington Redskins,1205,56,Sports,University of Maryland,Maryland,Public,1,2.9,99,97.1
+288,Evan Williams,$2.6 B,Twitter,1205,49,Technology,University of Nebraska Lincoln,Arkansas,Public,11.4,19.7,88.6,80.3
+289,Charles Zegar,$2.6 B,Bloomberg LP,1205,73,Media & Entertainment,New York University,New York,Private not-for-profit,77.3,83.7,22.7,16.3
+290,John Arrillaga,$2.5 B,real estate,1249,84,Real Estate,Stanford University,California,Public,10.5,20.9,89.5,79.1
+291,Carol Jenkins Barnett,$2.5 B,Publix supermarkets,1249,64,Food & Beverage,Florida Southern College,Florida,Private not-for-profit,47,58.2,53,41.8
+292,William Berkley,$2.5 B,insurance,1249,74,Finance & Investments,New York University,New York,Private not-for-profit,77.3,83.7,22.7,16.3
+293,Jim Breyer,$2.5 B,venture capital,1249,59,Technology,Stanford University,California,Public,10.5,20.9,89.5,79.1
+294,Gerald Ford,$2.5 B,banking,1249,76,Finance & Investments,Southern Methodist University,North Carolina,Private not-for-profit,18.4,42.6,81.6,57.4
+295,Phillip Frost,$2.5 B,pharmaceuticals,1249,84,Healthcare,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+296,Matthew Prince,$2.5 B,cybersecurity,1249,46,Technology,Trinity College Connecticut,Connecticut,Private not-for-profit,81.4,86.3,18.6,13.7
+297,John Pritzker,$2.5 B,"hotels, investments",1249,67,Finance & Investments,Menlo College,California,Private not-for-profit,28,40.8,72,59.2
+301,Stephen Feinberg,$2.4 B,private equity,1299,61,Finance & Investments,Princeton University,Kansas,Public,36.5,39.8,63.5,60.2
+302,Donald Horton,$2.4 B,homebuilding,1299,71,Real Estate,University of Central Arkansas,Arkansas,Public,20.5,41.5,79.5,58.5
+303,Gail Miller,$2.4 B,car dealerships,1299,77,Automotive,University of Utah,Utah,Public,24,60.4,76,39.6
+304,Austin Russell,$2.4 B,★,1299,26,Automotive,Stanford University,California,Public,10.5,20.9,89.5,79.1
+305,Alice Schwartz,$2.4 B,biotech,1299,94,Healthcare,"University of California, Berkeley",California,Public,72.2,91,27.8,9
+306,William Stone,$2.4 B,software,1299,65,Technology,Marquette University,Wisconsin,Private not-for-profit,57.3,78.2,42.7,21.8
+307,Donald Trump,$2.4 B,real estate,1299,74,Real Estate,Fordham University,New York,Private not-for-profit,76,80.5,24,19.5
+308,John Tyson,$2.4 B,food processing,1299,67,Food & Beverage,Southern Methodist University,North Carolina,Private not-for-profit,18.4,42.6,81.6,57.4
+309,Jim Coulter,$2.3 B,private equity,1362,61,Finance & Investments,Stanford University,California,Public,10.5,20.9,89.5,79.1
+310,Noam Gottesman,$2.3 B,hedge funds,1362,59,Finance & Investments,Columbia University,New York,Private not-for-profit,85.6,93.3,14.4,6.7
+311,Joseph Grendys,$2.3 B,poultry processing,1362,59,Food & Beverage,Loyola University Chicago,Illinois,Private not-for-profit,59.7,71,40.3,29
+312,Jared Isaacman,$2.3 B,payment processing,1362,38,Technology,Embry-Riddle Aeronautical University,Florida,Private not-for-profit,33.6,56.4,66.4,43.6
+313,Jim Kavanaugh,$2.3 B,IT provider,1362,58,Technology,St. Louis University,Missouri,Private not-for-profit,60.7,69.7,39.3,30.3
+314,Clayton Mathile,$2.3 B,pet food,1362,80,Food & Beverage,Ohio Northern University,Ohio,Private not-for-profit,53.1,68.5,46.9,31.5
+315,Andrew Paradise,$2.3 B,★,1362,38,Media & Entertainment,University of Massachusetts,Massachusetts,Public,28.4,54.3,71.6,45.7
+316,Stewart Rahr,$2.3 B,drug distribution,1362,75,Healthcare,New York University,New York,Private not-for-profit,77.3,83.7,22.7,16.3
+317,Michael Saylor,$2.3 B,cryptocurrency,1362,56,Technology,Massachusetts Institute of Technology,Massachusetts,Private not-for-profit,83.5,93.1,16.5,6.9
+318,Ted Turner,$2.3 B,cable television,1362,82,Media & Entertainment,Brown University,Rhode Island,Private not-for-profit,84.4,94.5,15.6,5.5
+319,Elaine Wynn,$2.3 B,"casinos, hotels",1362,78,Gambling & Casinos,George Washington University,District of Columbia,Private not-for-profit,75.6,80.8,24.4,19.2
+320,Jerry Yang,$2.3 B,Yahoo,1362,52,Technology,Stanford University,California,Public,10.5,20.9,89.5,79.1
+321,Richard Barton,$2.2 B,Zillow,1444,53,Real Estate,Stanford University,California,Public,10.5,20.9,89.5,79.1
+322,Edward Bass,$2.2 B,"oil, investments",1444,75,Energy,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+323,Lorenzo Fertitta,$2.2 B,"casinos, mixed martial arts",1444,52,Sports,University of San Diego,California,Private not-for-profit,64.6,75,35.4,25
+324,Jeffrey Gundlach,$2.2 B,investments,1444,62,Finance & Investments,Dartmouth College,New Hampshire,Private not-for-profit,86.5,94.7,13.5,5.3
+325,Jeff Lawson,$2.2 B,software,1444,43,Technology,University of Michigan,Michigan,Public,75.8,90,24.2,10
+326,Max Levchin,$2.2 B,fintech,1444,45,Finance & Investments,University of Illinois Urbana Champaign,Illinois,Public,29.9,56.7,70.1,43.3
+327,Bob Parsons,$2.2 B,web hosting,1444,70,Technology,University of Baltimore,Maryland,Public,23.4,37.6,76.6,62.4
+328,Vlad Shmunis,$2.2 B,cloud technology,1444,60,Technology,San Francisco State University,California,Public,12.7,45.5,87.3,54.5
+329,Dean Solon,$2.2 B,solar systems,1444,56,Energy,Purdue University,Indiana,Public,41.8,70.2,58.2,29.8
+330,Timothy Springer,$2.2 B,biotech,1444,73,Healthcare,"University of California, Berkeley",California,Public,72.2,91,27.8,9
+331,David Walentas,$2.2 B,real estate,1444,82,Real Estate,University of Virginia,Virginia,Public,86.3,93.1,13.7,6.9
+332,William Fisher,$2.1 B,Gap,1517,64,Fashion & Retail,Stanford University,California,Public,10.5,20.9,89.5,79.1
+333,Gordon Getty,$2.1 B,Getty Oil,1517,87,Energy,San Francisco Conservatory of Music,California,Private not-for-profit,61.9,64.3,38.1,35.7
+334,Alexander Karp,$2.1 B,software firm,1517,53,Technology,Haverford College,Pennsylvania,Private not-for-profit,91.1,93.3,8.9,6.7
+335,Bruce Karsh,$2.1 B,private equity,1517,65,Finance & Investments,Duke University,North Carolina,Private not-for-profit,87.1,94.2,12.9,5.8
+336,Philippe Laffont,$2.1 B,hedge fund,1517,53,Finance & Investments,Massachusetts Institute of Technology,Massachusetts,Private not-for-profit,83.5,93.1,16.5,6.9
+337,Henry Laufer,$2.1 B,hedge funds,1517,75,Finance & Investments,Princeton University,Kansas,Public,36.5,39.8,63.5,60.2
+338,Frank Laukien,$2.1 B,scientific equipment,1517,61,Manufacturing,Massachusetts Institute of Technology,Massachusetts,Private not-for-profit,83.5,93.1,16.5,6.9
+339,Daniel Lubetzky,$2.1 B,snack bars,1517,52,Food & Beverage,Trinity University of San Antonio,Texas,Private not-for-profit,71.9,81.6,28.1,18.4
+340,Howard Marks,$2.1 B,private equity,1517,74,Finance & Investments,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+341,Vincent McMahon,$2.1 B,entertainment,1517,75,Sports,East Carolina University,North Carolina,Public,30.8,56.3,69.2,43.7
+343,Roger Penske,$2.1 B,cars,1517,84,Automotive,Lehigh University,Pennsylvania,Private not-for-profit,73,85.8,27,14.2
+344,Phil Ruffin,$2.1 B,"casinos, real estate",1517,86,Diversified,Wichita State University,Kansas,Public,21.5,46.2,78.5,53.8
+345,Richard Sands,$2.1 B,liquor,1517,70,Food & Beverage,University of Vermont,Vermont,Public,64.8,75.8,35.2,24.2
+346,Robert Sands,$2.1 B,liquor,1517,62,Food & Beverage,Skidmore College,New York,Private not-for-profit,82.7,85.9,17.3,14.1
+347,Jeffrey Talpins,$2.1 B,hedge fund,1517,46,Finance & Investments,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+350,Andy Fang,$2 B,food delivery app,1580,28,Technology,Stanford University,California,Public,10.5,20.9,89.5,79.1
+351,Jeffery Hildebrand,$2 B,oil,1580,62,Energy,The University of Texas at Austin,Texas,Public,8.9,26,91.1,74
+352,Orion Hindawi,$2 B,software,1580,41,Technology,"University of California, Berkeley",California,Public,72.2,91,27.8,9
+354,George Joseph,$2 B,insurance,1580,99,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+355,Thomas Lee,$2 B,private equity,1580,77,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+356,Jeffrey Lorberbaum,$2 B,flooring,1580,66,Manufacturing,University of Denver,Colorado,Private not-for-profit,66.5,77.5,33.5,22.5
+357,Craig McCaw,$2 B,telecom,1580,71,Telecom,Stanford University,California,Public,10.5,20.9,89.5,79.1
+358,Charles Munger,$2 B,Berkshire Hathaway,1580,97,Finance & Investments,University of Michigan,Michigan,Public,75.8,90,24.2,10
+359,Jonathan Nelson,$2 B,private equity,1580,64,Finance & Investments,Brown University,Rhode Island,Private not-for-profit,84.4,94.5,15.6,5.5
+360,Kevin Plank,$2 B,Under Armour,1580,48,Fashion & Retail,University of Maryland,Maryland,Public,65.7,84.1,43.3,15.9
+362,Stanley Tang,$2 B,food delivery app,1580,28,Technology,Stanford University,California,Public,10.5,20.9,89.5,79.1
+363,Amy Wyss,$2 B,medical equipment,1580,50,Healthcare,Skidmore College,New York,Private not-for-profit,82.7,85.9,17.3,14.1
+364,William Young,$2 B,plastics,1580,80,Manufacturing,University of Detroit Mercy,Michigan,Private not-for-profit,34.7,56.8,65.3,43.2
+366,Lee Bass,$1.9 B,"oil, investments",1664,64,Energy,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+368,James Dinan,$1.9 B,hedge funds,1664,61,Finance & Investments,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+369,Fred Ehrsam,$1.9 B,cryptocurrency exchange,1664,32,Finance & Investments,Duke Univeristy,North Carolina,Private not-for-profit,87.1,94.2,12.9,5.8
+370,Robert Fisher,$1.9 B,Gap,1664,67,Fashion & Retail,Stanford University,California,Public,10.5,20.9,89.5,79.1
+371,Bill Haslam,$1.9 B,gas stations,1664,62,Fashion & Retail,Emory University,Georgia,Private not-for-profit,83.8,90.8,16.2,9.2
+372,Stanley Hubbard,$1.9 B,DirecTV,1664,87,Media & Entertainment,University of Minnesota,Minnesota,Public,33.6,44.2,66.4,55.8
+373,Hamilton James,$1.9 B,investments,1664,69,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+374,Michael Kim,$1.9 B,private equity,1664,57,Finance & Investments,Haverford College,Pennsylvania,Private not-for-profit,91.1,93.3,8.9,6.7
+375,Larry Robbins,$1.9 B,hedge funds,1664,51,Finance & Investments,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+376,Brian Roberts,$1.9 B,Comcast,1664,61,Media & Entertainment,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+378,Kevin Systrom,$1.9 B,Instagram,1664,37,Technology,Stanford University,California,Public,10.5,20.9,89.5,79.1
+379,Todd Wagner,$1.9 B,online media,1664,60,Media & Entertainment,Indiana University,Indiana,Public,7.2,27.9,92.8,72.1
+380,Stephen Winn,$1.9 B,real estate services,1664,74,Real Estate,The University of Texas at Austin,Texas,Public,8.9,26,91.1,74
+381,Anita Zucker,$1.9 B,chemicals,1664,69,Manufacturing,University of Florida,Florida,Public,65.2,86.5,34.8,13.5
+382,Leslie Alexander,$1.8 B,sports team,1750,77,Sports,Western State University,Colorado,Public,22.5,42.4,77.5,57.6
+383,David Booth,$1.8 B,mutual funds,1750,75,Finance & Investments,University of Kansas,Kansas,Public,35.8,61.6,64.2,38.4
+384,Robert Duggan,$1.8 B,pharmaceuticals,1750,76,Healthcare,"University of California, Los Angeles",California,Public,69,90.3,31,9.7
+385,James France,$1.8 B,"Nascar, racing",1750,76,Sports,Florida Southern College,Florida,Private not-for-profit,47,58.2,53,41.8
+386,Mario Gabelli,$1.8 B,money management,1750,79,Finance & Investments,Fordham University,New York,Private not-for-profit,76,80.5,24,19.5
+387,Brian Higgins,$1.8 B,hedge funds,1750,56,Finance & Investments,Villanova University,Pennsylvania,Private not-for-profit,86.2,90.1,13.8,9.9
+388,Drew Houston,$1.8 B,cloud storage service,1750,38,Technology,Massachusetts Institute of Technology,Massachusetts,Private not-for-profit,83.5,93.1,16.5,6.9
+389,Thomas James,$1.8 B,finance,1750,78,Finance & Investments,Stetson University,Florida,Private not-for-profit,56.4,64.1,43.6,35.9
+390,Marc Lasry,$1.8 B,hedge funds,1750,60,Finance & Investments,Clark University,Massachusetts,Private not-for-profit,75.5,80.9,24.5,19.1
+391,John Oyler,$1.8 B,biotech,1750,53,Healthcare,Stanford University,California,Public,10.5,20.9,89.5,79.1
+392,Tor Peterson,$1.8 B,commodities,1750,56,Metals & Mining,Duke University,North Carolina,Private not-for-profit,87.1,94.2,12.9,5.8
+393,Leonard Schleifer,$1.8 B,pharmaceuticals,1750,68,Healthcare,University of Virginia,Virginia,Public,86.3,93.1,13.7,6.9
+395,Kanye West,$1.8 B,"music, sneakers",1750,43,Fashion & Retail,Chicago State University,Illinois,Public,4,20.7,96,79.3
+396,Marc Andreessen,$1.7 B,venture capital investing,1833,49,Finance & Investments,"University of Illinois, Urbana-Champaign",Illinois,Public,29.9,56.7,70.1,43.3
+397,Nicolas Berggruen,$1.7 B,investments,1833,59,Finance & Investments,New York University,New York,Private not-for-profit,77.3,83.7,22.7,16.3
+398,Peter Buck,$1.7 B,Subway sandwich shops,1833,90,Food & Beverage,Columbia University,New York,Private not-for-profit,85.6,93.3,14.4,6.7
+399,Henry Engelhardt,$1.7 B,insurance,1833,63,Finance & Investments,University of Michigan,Michigan,Public,75.8,90,24.2,10
+400,Paul Foster,$1.7 B,oil refining,1833,63,Energy,Baylor University,Texas,Private not-for-profit,57.2,74.7,42.8,25.3
+401,Robert Friedland,$1.7 B,mining,1833,70,Metals & Mining,Reed College,Oregon,Private not-for-profit,70,81.9,30,18.1
+402,Christopher Goldsbury,$1.7 B,salsa,1833,78,Food & Beverage,Trinity University,Texas,Private not-for-profit,71.9,81.6,28.1,18.4
+403,Patrick Hanrahan,$1.7 B,software,1833,65,Technology,University of Wisconsin Madison,Wisconsin,Public,27.5,54.8,72.5,45.2
+404,Edward Lampert,$1.7 B,Sears,1833,58,Finance & Investments,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+405,Todd McKinnon,$1.7 B,software,1833,49,Technology,Brigham Young University,Utah,Private not-for-profit,30.9,78,69.1,22
+406,Gary Michelson,$1.7 B,medical patents,1833,72,Healthcare,Temple University,Pennsylvania,Public,38.9,66.3,61.1,33.7
+407,Jorge Perez,$1.7 B,real estate,1833,71,Real Estate,University of Michigan,Michigan,Public,75.8,90,24.2,10
+408,Nicholas Pritzker,$1.7 B,"hotels, investments",1833,77,Finance & Investments,University of Chicago,Illinois,Private not-for-profit,87.9,92.7,12.1,7.3
+409,Jerry Reinsdorf,$1.7 B,sports teams,1833,85,Sports,George Washington University,District of Columbia,Private not-for-profit,75.6,80.8,24.4,19.2
+410,Sheryl Sandberg,$1.7 B,Facebook,1833,51,Technology,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+411,Andres Santo Domingo,$1.7 B,beer,1833,42,Food & Beverage,Brown University,Rhode Island,Private not-for-profit,84.4,94.5,15.6,5.5
+413,Henrik Fisker,$1.6 B,★,1931,57,Automotive,Art Center College of Design,California,Private not-for-profit,30.7,64.4,69.3,35.6
+414,Michael Jordan,$1.6 B,"Charlotte Hornets, endorsements",1931,58,Sports,"University of North Carolina, Chapel Hill",North Carolina,Public,37,59.5,63,40.5
+415,William Koch,$1.6 B,"oil, investments",1931,80,Energy,Massachusetts Institute of Technology,Massachusetts,Private not-for-profit,83.5,93.1,16.5,6.9
+416,Robert Langer,$1.6 B,biotech,1931,72,Healthcare,Massachusetts Institute of Technology,Massachusetts,Private not-for-profit,83.5,93.1,16.5,6.9
+417,Gary Magness,$1.6 B,"cable TV, investments",1931,67,Media & Entertainment,Western State College of Colorado,Colorado,Public,22.5,42.4,77.5,57.6
+418,David Paul,$1.6 B,medical devices,1931,54,Healthcare,Temple University,Pennsylvania,Public,38.9,66.3,61.1,33.7
+419,Nelson Peltz,$1.6 B,investments,1931,78,Finance & Investments,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+420,Peter Sperling,$1.6 B,education,1931,61,Service,"University of California, Santa Barbara",California,Public,67.9,80.7,32.1,19.3
+421,David Zalik,$1.6 B,financial technology,1931,47,Technology,Auburn University,Alabama,Public,9.9,27.1,90.1,72.9
+422,Steve Case,$1.5 B,AOL,2035,62,Technology,Williams College,Massachusetts,Private not-for-profit,89.6,95.4,10.4,4.6
+423,Safra Catz,$1.5 B,software,2035,59,Technology,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+424,Bharat Desai,$1.5 B,IT consulting,2035,68,Technology,University of Michigan,Michigan,Public,75.8,90,24,10
+425,John Foley,$1.5 B,Peloton,2035,49,Technology,Georgia Tech,Georgia,Public,40.9,82.2,59.1,17.8
+427,Bill Gross,$1.5 B,investments,2035,76,Finance & Investments,Duke University,North Carolina,Private not-for-profit,87.1,94.2,12.9,5.8
+428,Seth Klarman,$1.5 B,investments,2035,63,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+429,Gary Lauder,$1.5 B,Estée Lauder,2035,58,Fashion & Retail,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+430,James Leininger,$1.5 B,medical products,2035,76,Healthcare,Indiana University,Indiana,Public,7.2,27.9,92.8,72.1
+431,George Marcus,$1.5 B,real estate,2035,79,Real Estate,San Francisco State,California,Public,12.7,45.5,87.3,54.5
+432,Mark Pincus,$1.5 B,online games,2035,55,Technology,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+433,Matthew Roszak,$1.5 B,cryptocurrency,2035,48,Finance & Investments,Lake Forest College,Illinois,Private not-for-profit,58.4,63.8,41.6,36.2
+434,Fayez Sarofim,$1.5 B,money management,2035,92,Finance & Investments,"University of California, Berkeley",California,Public,72.2,91,27.8,9
+435,Ryan Smith,$1.5 B,cloud computing,2035,42,Technology,Brigham Young University,Utah,Private not-for-profit,30.9,78,69.1,22
+436,Kenny Troutt,$1.5 B,telecom,2035,73,Telecom,Southern Illinois University,Illinois,Public,23.4,44,76.6,56
+437,Clifford Asness,$1.4 B,money management,2141,54,Finance & Investments,University of Chicago,Illinois,Private not-for-profit,87.9,92.7,12.1,7.3
+438,Louis Bacon,$1.4 B,hedge funds,2141,64,Finance & Investments,Middlebury College,Vermont,Private not-for-profit,86.7,93.6,13.3,6.4
+439,Jim Crane,$1.4 B,"logistics, baseball",2141,67,Sports,Central Missouri State University,Missouri,Public,12.9,26.8,87.1,73.2
+440,Thomas Duff,$1.4 B,"tires, diversified",2141,64,Diversified,University of Southern Mississippi,Mississippi,Public,20.7,45.1,79.3,54.9
+441,Lloyd Frink,$1.4 B,Zillow,2141,56,Real Estate,Stanford University,California,Public,10.5,20.9,89.5,79.1
+442,Mimi Haas,$1.4 B,Levi's jeans,2141,74,Fashion & Retail,George Washington University,District of Columbia,Private not-for-profit,75.6,80.8,24.4,19.2
+443,Richard Hayne,$1.4 B,Urban Outfitters,2141,73,Fashion & Retail,Lehigh University,Pennsylvania,Private not-for-profit,73,85.8,27,14.2
+444,Timothy Headington,$1.4 B,"oil & gas, investments",2141,70,Energy,University of Oklahoma,Oklahoma,Public,34.8,65.6,65.2,34.4
+445,Scott Kapnick,$1.4 B,private equity,2141,62,Finance & Investments,The University of Chicago,Alabama,Public,7.2,13.4,92.8,86.6
+446,Sidney Kimmel,$1.4 B,retail,2141,93,Fashion & Retail,Temple University,Pennsylvania,Public,38.9,66.3,61.1,33.7
+447,Trevor Milton,$1.4 B,★,2141,39,Automotive,Utah Valley University,Utah,Public,7.3,21.6,92.7,78.4
+448,John Ocampo,$1.4 B,semiconductors,2141,62,Technology,Santa Clara University,California,Private not-for-profit,76.9,84,23.1,16
+450,Martin Selig,$1.4 B,real estate,2141,83,Real Estate,University of Washington,Washington,Public,57.5,81.8,42.5,18.2
+451,Edward Stack,$1.4 B,Dick's Sporting Goods,2141,66,Fashion & Retail,St. John Fisher College,Massachusetts,Private not-for-profit,3.5,40.4,96.5,59.6
+452,Thomas Steyer,$1.4 B,hedge funds,2141,63,Finance & Investments,Yale University,Connecticut,Private not-for-profit,89.6,97.8,10.4,2.2
+453,Jim Thompson,$1.4 B,logistics,2141,81,Logistics,San Jose State University,California,Public,7.7,48.1,92.3,51.9
+454,Wilma Tisch,$1.4 B,diversified,2141,93,Finance & Investments,Skidmore College,New York,Private not-for-profit,82.7,85.9,17.3,14.1
+455,Jayshree Ullal,$1.4 B,computer networking,2141,60,Technology,San Francisco State University,California,Public,12.7,45.5,87.3,54.5
+456,Chris Britt,$1.3 B,fintech,2263,48,Finance & Investments,Tulane University,Louisiana,Private not-for-profit,62.3,76,37.7,24
+457,Chuck Bundrant,$1.3 B,fishing,2263,79,Food & Beverage,Middle Tennessee State University,Tennessee,Public,16.1,45.6,83.9,54.4
+458,Egon Durban,$1.3 B,private equity,2263,47,Finance & Investments,Georgetown University,District of Columbia,Private not-for-profit,88,92.5,12,7.5
+459,Michael Krasny,$1.3 B,retail,2263,67,Technology,"University of Illinois, Urbana-Champaign",Illinois,Public,29.9,56.7,70.1,43.3
+460,Bob Muglia,$1.3 B,software,2263,61,Technology,University of Michigan,Michigan,Public,75.8,90,24.2,10
+461,Whitney Wolfe Herd,$1.3 B,dating app,2263,31,Technology,Southern Methodist University,North Carolina,Private not-for-profit,18.4,42.6,81.6,57.4
+462,Patrick Zalupski,$1.3 B,homebuilding,2263,40,Real Estate,Stetson University,Florida,Private not-for-profit,56.4,64.1,43.6,35.9
+463,Thomas Bailey,$1.2 B,money management,2378,84,Finance & Investments,Michigan State University,Michigan,Public,50.4,77.6,49.6,22.4
+464,Ronald Clarke,$1.2 B,payments technology,2378,65,Technology,Cornell University,New York,Private not-for-profit,86.6,93.3,13.4,6.7
+465,Wesley Edens,$1.2 B,investments,2378,59,Finance & Investments,Oregon State University,Oregon,Public,29.6,61.5,70.4,38.5
+466,Lawrence Golub,$1.2 B,private equity,2378,61,Finance & Investments,Harvard College,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+467,Ryan Graves,$1.2 B,uber,2378,37,Technology,Miami University of Ohio,Ohio,Public,7.9,27.7,92.1,72.3
+468,Joe Lacob,$1.2 B,Golden State Warriors,2378,65,Sports,Stanford University,California,Public,10.5,20.9,89.5,79.1
+469,Frederic Luddy,$1.2 B,software,2378,66,Technology,Indiana University,Indiana,Public,7.2,27.9,92.8,72.1
+471,Michael Price,$1.2 B,investments,2378,68,Finance & Investments,University of Oklahoma,Oklahoma,Public,34.8,65.6,65.2,34.4
+472,Chris Sacca,$1.2 B,venture capital investing,2378,45,Finance & Investments,Georgetown University,District of Columbia,Private not-for-profit,88,92.5,12,7.5
+473,James Scapa,$1.2 B,software,2378,64,Technology,University of Michigan,Michigan,Public,75.8,90,24.2,10
+474,Mike Speiser,$1.2 B,software,2378,50,Technology,University of Arizona,Arizona,Public,39.9,61.4,60.1,38.6
+475,Robert Toll,$1.2 B,home building,2378,80,Real Estate,University of Pennsylvania,Pennsylvania,Private not-for-profit,87.9,95.7,12.1,4.3
+476,Thomas Tull,$1.2 B,"movies, investments",2378,50,Media & Entertainment,Hamilton College,New York,Private not-for-profit,89.5,92.9,10.5,7.1
+477,John Bicket,$1.1 B,sensor systems,2524,41,Technology,Massachusetts Institute of Technology,Massachusetts,Private not-for-profit,83.5,93.1,16.5,6.9
+478,Sanjit Biswas,$1.1 B,sensor systems,2524,39,Technology,Stanford University,California,Public,10.5,20.9,89.5,79.1
+479,Lloyd Blankfein,$1.1 B,banking,2524,66,Finance & Investments,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+480,Weili Dai,$1.1 B,semiconductors,2524,59,Technology,"University of California, Berkeley",California,Public,72.2,91,27.8,9
+481,Henry Davis,$1.1 B,beef processing,2524,70,Food & Beverage,University of Denver,Colorado,Private not-for-profit,66.5,77.5,33.5,22.5
+482,Anne Gittinger,$1.1 B,Nordstrom department stores,2524,85,Fashion & Retail,University of Washington,Washington,Public,57.5,81.8,42.5,18.2
+483,David Golub,$1.1 B,private equity,2524,58,Finance & Investments,Harvard College,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+484,Ming Hsieh,$1.1 B,Fulgent Genetics,2524,65,Healthcare,University of Southern California,California,Private not-for-profit,78.2,91.2,21.8,8.8
+485,Mitchell Jacobson,$1.1 B,industrial equipment,2524,70,Service,Brandeis University,Massachusetts,Private not-for-profit,86.2,89.6,13.8,10.4
+486,Richard Kayne,$1.1 B,investments,2524,75,Finance & Investments,"University of California, Los Angeles",California,Public,69,90.3,31,9.7
+487,Nancy Lerner,$1.1 B,"banking, credit cards",2524,60,Finance & Investments,University of Cincinnati,Ohio,Private not-for-profit,18.5,38,81.5,62
+488,Randolph Lerner,$1.1 B,"banking, credit cards",2524,59,Finance & Investments,Columbia University,New York,Private not-for-profit,85.6,93.3,14.4,6.7
+489,Bruce Nordstrom,$1.1 B,Nordstrom department stores,2524,87,Fashion & Retail,University of Washington,Washington,Public,57.5,81.8,42.5,18.2
+490,Jack Schuler,$1.1 B,pharmaceuticals,2524,80,Healthcare,Tufts University,Massachusetts,Private not-for-profit,87.2,92.2,12.8,7.8
+491,Neerja Sethi,$1.1 B,"IT consulting, outsourcing",2524,66,Technology,Oakland University,Michigan,Public,14.6,42.9,85.4,57.1
+492,Sehat Sutardja,$1.1 B,semiconductors,2524,59,Technology,"University of California, Berkeley",California,Public,72.2,91,27.8,9
+493,Carl Thoma,$1.1 B,investments,2524,72,Finance & Investments,Oklahoma State University,Oklahoma,Public,32.6,59.6,67.4,40.4
+494,Baiju Bhatt,$1 B,stock trading app,2674,36,Finance & Investments,Stanford University,California,Public,10.5,20.9,89.5,79.1
+495,Larry Fink,$1 B,money management,2674,68,Finance & Investments,"University of California, Los Angeles",California,Public,69,90.3,31,9.7
+496,David Katzman,$1 B,teeth aligners,2674,61,Service,Michigan State University,Michigan,Public,50.4,77.6,49.6,22.4
+497,Bom Kim,$1 B,online retailing,2674,42,Technology,Harvard University,Massachusetts,Private not-for-profit,86.5,97.5,13.5,2.5
+498,Vlad Tenev,$1 B,stock trading,2674,34,Finance & Investments,Stanford University,California,Public,10.5,20.9,89.5,79.1
+499,Sandy Weill,$1 B,Citigroup,2674,88,Finance & Investments,Cornell University,New York,Private not-for-profit,86.6,93.3,13.4,6.7
